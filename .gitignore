@@ -163,3 +163,4 @@ cython_debug/
 
 plan.md
 default.txt
+test.py
