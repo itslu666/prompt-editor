@@ -1,0 +1,8 @@
+african
+european
+american
+arabic
+chinese
+japanese
+russian
+german

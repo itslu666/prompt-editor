@@ -1,0 +1,12 @@
+black
+blond
+brown
+dark brown
+dark blond
+green
+blue
+purple
+grey
+yellow
+ginger
+red

@@ -1,0 +1,12 @@
+muscular
+short
+tall
+long
+slender
+thick
+big
+fat
+tiny
+cute
+small
+little

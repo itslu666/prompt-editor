@@ -1,0 +1,12 @@
+angry
+frustrated
+sad
+happy
+depressed
+joyful
+satisfied
+emotionless
+pleased
+glad
+concerned
+lucky

@@ -1,0 +1,10 @@
+Man
+Woman
+Girl
+Boy
+Elf
+Baby Girl
+Baby Boy
+Cat
+Dog
+Bird
