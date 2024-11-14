@@ -9,6 +9,6 @@ def show_buttons(button_frame):
             # create button with custom text for each style
             button = ctk.CTkButton(
                 button_frame, text=line.strip()
-            )  # click event to show next buttons and hide all // image of that style
+            )  # click event to show next buttons and write into textbox and hide all buttons // image of that style
 
             button.pack(side="left", padx=10)
