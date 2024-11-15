@@ -1,9 +1,10 @@
 import customtkinter as ctk
-from modules import get_buttons
+from modules import show_buttons
 
 
 root = ctk.CTk()
 root.geometry("900x600")
+ctk.set_appearance_mode("system")
 
 # make frames
 # make a horizontal scrollable frame
@@ -19,6 +20,6 @@ prompt_frame.pack(expand=True, fill="both", pady=10, padx=10)
 prompt_tb.pack(expand=True, fill="both", padx=10, pady=10)
 
 # show all buttons / start the process
-get_buttons.show_buttons(button_frame)
+show_buttons.style_buttons(button_frame, prompt_tb)
 
 root.mainloop()
