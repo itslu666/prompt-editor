@@ -1,5 +1,5 @@
 def write_text(textbox, text):
-    textbox.insert("1.0", text + "\n")
+    textbox.insert("end", text)
 
 
 def copy_text(): ...

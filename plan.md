@@ -7,6 +7,8 @@ Style
 
 "A" + emotions + age + ethnicity + gender + "with" + hair_length + hair_style + color + "hair." + "He has" + color "eyes and" + "he looks" + body_type + "and he is wearing following clothes: " + color + clothing
 
+where
+
 
 outfit chooser
 
