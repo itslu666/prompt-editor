@@ -5,8 +5,9 @@ pixar style -> man -> long hair -> old -> ...
 
 Style
 
-"A" + emotions + age + ethnicity + gender + "with" + hair_length + hair_style + color + "hair." + "He has" + color "eyes and" + "he looks" + body_type + "and he is wearing following clothes: " + color + clothing
+"A" + emotions + age + ethnicity + gender + "with" + hair_length + hair_style + color + "hair." + "The eye color is" + color "and they look" + body_type + "wearing following clothes: " + color + clothing
 
+activity
 where
 
 

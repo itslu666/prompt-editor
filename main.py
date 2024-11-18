@@ -1,5 +1,6 @@
 import customtkinter as ctk
 from modules import show_buttons
+import test
 
 
 root = ctk.CTk()
@@ -20,6 +21,7 @@ prompt_frame.pack(expand=True, fill="both", pady=10, padx=10)
 prompt_tb.pack(expand=True, fill="both", padx=10, pady=10)
 
 # show all buttons / start the process
-show_buttons.style_buttons(button_frame, prompt_tb)
+# show_buttons.style_buttons(button_frame, prompt_tb)
+test.style_buttons(button_frame, prompt_tb)
 
 root.mainloop()
