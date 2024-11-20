@@ -22,6 +22,6 @@ prompt_tb.pack(expand=True, fill="both", padx=10, pady=10)
 
 # show all buttons / start the process
 # show_buttons.style_buttons(button_frame, prompt_tb)
-test.style_buttons(button_frame, prompt_tb)
+show_buttons.style_buttons(button_frame, prompt_tb)
 
 root.mainloop()
